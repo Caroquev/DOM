@@ -1,0 +1,25 @@
+/*@tailwind base;
+@tailwind components;
+@tailwind utilities;*/
+
+form{
+  text-align: center;
+}
+
+img{
+  width: 260px;
+  height: 200px;
+}
+
+#box{
+  display: none;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 10px;
+  margin-top:10px ;
+}
+
+/*.boton{
+    margin-left: 0px;
+    margin-right: 150px;
+}*/
+
