@@ -1,0 +1,15 @@
+/*@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .card {
+  }
+}*/
+
+.game{
+  display: grid;
+  width: 90px;
+  margin:auto;
+  border: 1px solid #ddd;
+}
